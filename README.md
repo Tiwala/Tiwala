@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋! I'm Gerard</h1>
-<h3 align="center">It's nice of you to drop by! I like coding. 😄</h3>
+<h1 align="center">Hi 👋!/h1>
+<h3 align="center">I'm Gerard. I like coding. 😄</h3>
 <p align="center">Feel free to take a look around!</p>
 
 <p align='center'>
